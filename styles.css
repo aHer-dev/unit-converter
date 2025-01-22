@@ -8,6 +8,17 @@ body {
     align-items: center;
     height: 100vh;
 }
+
+h1 {
+    background-color: rgb(138, 76, 219);
+    padding: 15px 20px;
+    border-radius: 15px;
+    text-align: center;
+    display: inline-block;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+}
 .container {
     text-align: center;
     background-color: blanchedalmond;
